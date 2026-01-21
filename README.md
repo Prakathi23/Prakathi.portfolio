@@ -1,4 +1,4 @@
-# Prakathi Vanarasa - Software Development Engineer ![location](/images/image1.png)
+# ![location](/images/image1.png) Prakathi Vanarasa - Software Development Engineer 
 
 ## Contact Information:
 - **Email**: prakathiv2@gmail.com
